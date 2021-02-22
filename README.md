@@ -1,2 +1,2 @@
-# cursoAngularv1.0
+# curso
 Created with CodeSandbox
